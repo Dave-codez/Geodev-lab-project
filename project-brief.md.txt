@@ -1,0 +1,29 @@
+# My Project brief
+
+## The question
+Flood exposure to buildings, roads, and population in Okpanam, Asaba, Delta state.
+
+## The data i need 
+- Facilities and settlement---GRID3 Data Hub - data.grid3.org
+- Topography--- OpenTopography - portal.opentopography.org
+- Population---WorldPop - worldpop.org
+- Rainfall estimate---CHIRPS - chc.ucsb.edu/data/chirps
+- Climate and weather condition---NiMet, the Nigerian Meteorological Agency - nimet.gov.ng
+- Human ststistics National Bureau of Statistics - nigerianstat.gov.ng
+- Extract waterways---HOT exports on HDX - data.humdata.org
+
+## What I want to build 
+I want to build a system that shows the area with un-navigable road network after rainfall and shows how the water gathers to the particular point.
+
+
+
+## Why it matters
+It gives descriptions to how prone certain areas is to flood and gives insight on how to manage and combat flooding in these areas
+
+
+## Data used
+Building data, road network data, elevation/soil data, population 
+
+
+
+ 
